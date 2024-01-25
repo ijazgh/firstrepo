@@ -1,1 +1,1 @@
-this is first funtion of my app
+this is second funtion of my app
